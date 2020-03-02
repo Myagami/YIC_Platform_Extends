@@ -1,0 +1,16 @@
+obj=building
+name=wa-platform-1f_Ex1
+copyright=wa
+NoInfo=1
+NoConstruction=1
+Dims=1,1,2
+Type=stop
+enables_pax=1
+Level=3
+waytype=track
+needs_ground=1
+cursor=platform-1f_Ex.0.5
+icon=> platform-1f_Ex.0.4
+BackImage[0][0][0][0][0][0]=platform-1f_Ex.0.0
+BackImage[1][0][0][0][0][0]=platform-1f_Ex.0.0
+---
