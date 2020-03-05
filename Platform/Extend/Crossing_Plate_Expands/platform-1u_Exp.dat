@@ -1,6 +1,6 @@
 ---
 obj=building
-name=wa-platform-1u-Exp1
+name=YIC-Mk_EX-platform-1u-Exp1
 copyright=wa / M.Yagami
 NoInfo=1
 NoConstruction=1
@@ -30,7 +30,7 @@ BackImage[14][0][0][0][0][0]=platform-1u_Ef.1.0
 BackImage[15][0][0][0][0][0]=platform-1u_Ef.1.1
 ---
 obj=building
-name=wa-platform-1u-Exp2
+name=YIC-Mk_EX-platform-1u-Exp2
 copyright=wa / M.Yagami
 NoInfo=1
 NoConstruction=1

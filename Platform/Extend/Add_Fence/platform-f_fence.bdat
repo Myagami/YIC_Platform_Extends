@@ -1,5 +1,5 @@
 obj=building
-name=wa-platform-1f_1
+name=YIC-Mk_EX-platform-1f_1
 copyright=wa / M.Kousaka
 NoInfo=1
 NoConstruction=1
@@ -85,7 +85,7 @@ FrontImage[11][0][0][0][0][1]=platform-f_fence.5.1
 
 ---
 obj=building
-name=wa-platform-1f_2
+name=YIC-Mk_EX-platform-1f_2
 copyright=wa / M.Kousaka
 NoInfo=1
 NoConstruction=1

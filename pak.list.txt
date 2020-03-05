@@ -3,12 +3,11 @@ building.np-railstop-footbridge-1_Dual.pak
 building.np-railstop-footbridge-1_End.pak
 building.np-railstop-footbridge-1n.pak
 building.np-railstop-footbridge-1n_End.pak
-building.wa-cs-platform-1_Ex1.pak
-building.wa-cs-platform-1_Ex2.pak
-building.wa-cs-platform-1_Ex3.pak
+building.wa.cs-platform_Ex.pak
 building.wa-footbridge-OverRide-1.pak
 building.wa-platform-0_Wide.pak
 building.wa-platform-1_Closed.pak
+building.wa.platform-d_Ex.pak
 building.wa-platform-1d_Ex1.pak
 building.wa-platform-1d_Ex2.pak
 building.wa-platform-1d_Ex3.pak
@@ -58,3 +57,4 @@ building.wa-platform-f_With_Stair-1.pak
 building.wa-platform-f_With_Stair_1-1.pak
 building.wa-platform-f_With_Stair_1-2.pak
 building.wa-platform_tmp1(Black).pak
+platform-f_With_Stair.pak
