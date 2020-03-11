@@ -1,0 +1,1 @@
+!function(i){"use strict";function o(){return this.initalized(),this}o.prototype={initalized:function(){this.hoge="hoge",i(document).on("click","body",i.proxy(this.showThis,this))},showThis:function(){console.log(void 0)}},i(document).ready(function(){new o})}(jQuery,window);
