@@ -1,4 +1,4 @@
-# Wa Platform Extends 2nd Season
+# YIC Platform Extend Documents(旧名:Wa Platform Extends 2nd Season)
 ## about
 既存のプラットホームでは足りないニッチな要素を実装するのが目的です
 
@@ -16,6 +16,9 @@ pakのリリースについては行われた際にTwitter( @honoka_he303 )や�
 + 拡幅ホーム向けフェンス付き
 + その他盛りだくさん
 
+## アドオンの一覧について
+githubの機能であるpage作成機能を用いて一覧を大まかに作成いたしました、現在の所画像のみまとめております。  
+[YIC Platform Extend Documents - gh-pages](https://myagami.github.io/wa_Platform_Extends/)
 ## 使い方について
 各種仕様の整理が追いついていない為。自分で使い方を探っていただけると幸いです。
 pagesの整備も並行して行っておりますので公開が出来次第お知らせします
