@@ -1,0 +1,34 @@
+obj=building
+name=YIC-Mk_EX-cs-Station-1(WithEV_Type1)
+copyright=wa / M.Kousaka
+NoInfo=1
+Dims=1,1,4
+Type=extension
+waytype=track
+enables_pax=1
+Level=3
+needs_ground=1
+cursor=Station_With_Stair_EV.0.5
+icon=> Station_With_Stair_EV.0.4
+BackImage[0][0][0][0][0]=Station_With_Stair_EV.0.0
+BackImage[1][0][0][0][0]=Station_With_Stair_EV.0.1
+BackImage[2][0][0][0][0]=Station_With_Stair_EV.0.2
+BackImage[3][0][0][0][0]=Station_With_Stair_EV.0.3
+------------------
+obj=building
+name=YIC-Mk_EX-cs-Station-1(WithEV_Type2)
+copyright=wa / M.Kousaka
+NoInfo=1
+Dims=1,1,4
+Type=extension
+waytype=track
+enables_pax=1
+Level=3
+needs_ground=1
+cursor=Station_With_Stair_EV.1.5
+icon=> Station_With_Stair_EV.1.4
+BackImage[0][0][0][0][0]=Station_With_Stair_EV.1.0
+BackImage[1][0][0][0][0]=Station_With_Stair_EV.1.1
+BackImage[2][0][0][0][0]=Station_With_Stair_EV.1.2
+BackImage[3][0][0][0][0]=Station_With_Stair_EV.1.3
+-----------------
