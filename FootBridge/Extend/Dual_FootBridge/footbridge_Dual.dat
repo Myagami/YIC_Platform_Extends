@@ -13,8 +13,6 @@ needs_ground=1
 cursor=footbridge_Dual.2.1
 icon=> footbridge_Dual.2.0
 
-
-
 backImage[0][0][0][0][0][0]=footbridge_Dual.0.0
 backImage[1][0][0][0][0][0]=footbridge_Dual.0.1
 backImage[2][0][0][0][0][0]=footbridge_Dual.0.0
@@ -86,8 +84,8 @@ backImage[14][0][0][0][0][1]=footbridge-winter_Dual.1.0
 backImage[15][0][0][0][0][1]=footbridge-winter_Dual.1.1
 
 -----
-#obj=building
-#name=YIC-Mk_EX-railstop-footbridge-1n_Dual 
+obj=building
+name=YIC-Mk_EX-railstop-footbridge-1n_Dual
 copyright=wa / M.Kousaka
 noInfo=1
 noConstruction=1
@@ -169,4 +167,5 @@ backImage[12][0][0][0][0][1]=footbridge-winter_Dual.3.6
 backImage[13][0][0][0][0][1]=footbridge-winter_Dual.3.7
 backImage[14][0][0][0][0][1]=footbridge-winter_Dual.4.0
 backImage[15][0][0][0][0][1]=footbridge-winter_Dual.4.1
+------
 
