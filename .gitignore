@@ -5,3 +5,4 @@ Wa_Platform_Extends*/
 *.zip
 locking
 .env
+tmp_*
