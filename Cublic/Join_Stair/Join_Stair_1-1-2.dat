@@ -1,6 +1,17 @@
+##################
+#
+# X: 1
+# Y: 2
+# C: 1F -> 2F
+#
+# Type1: 2F side high style
+# Type2: Slope style
+# Type3: 1F side high style
+#
+##################
 obj=building
-name=YIC-Mk_EX-Join_Stair_1-1-2
-copyright=wa / M.Kousaka
+name=YIC-Mk_EX-JoinStair_1-1-2(type1)
+copyright=M.Kousaka
 NoInfo=1
 NoConstruction=1
 Dims=2,1,1
@@ -21,8 +32,8 @@ BackImage[0][0][1][0][0]=Join_Stair_1-1-2.0.1
 #BackImage[3][0][1][0][0]=Join_Stair_1-1-2.3.1
 ---------
 obj=building
-name=YIC-Mk_EX-Join_Stair_1-1-2(type2)
-copyright=wa / M.Kousaka
+name=YIC-Mk_EX-JoinStair_1-1-2(type2)
+copyright=M.Kousaka
 NoInfo=1
 NoConstruction=1
 Dims=2,1,1
@@ -43,8 +54,8 @@ BackImage[0][0][1][0][0]=Join_Stair_1-1-2.1.1
 #BackImage[3][0][1][0][0]=Join_Stair_1-1-2.3.1
 ----------------
 obj=building
-name=YIC-Mk_EX-Join_Stair_1-1-2(type3)
-copyright=wa / M.Kousaka
+name=YIC-Mk_EX-JoinStair_1-1-2(type3)
+copyright=M.Kousaka
 NoInfo=1
 NoConstruction=1
 Dims=2,1,1
