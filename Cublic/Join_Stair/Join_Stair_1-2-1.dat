@@ -3,7 +3,7 @@ name=YIC-Mk_EX-JoinStair_1-2-1(Type-1)
 copyright=M.Kousaka
 
 noInfo=1
-dims=2,1,2
+dims=2,1,4
 type=extension
 waytype=track
 level=8
@@ -13,6 +13,10 @@ backImage[0][0][0][0][0]=Join_Stair_1-2-1.0.0
 backImage[0][0][1][0][0]=Join_Stair_1-2-1.1.0
 backImage[1][0][0][0][0]=Join_Stair_1-2-1.0.1
 backImage[1][1][0][0][0]=Join_Stair_1-2-1.1.1
+backImage[2][0][0][0][0]=Join_Stair_1-2-1.0.2
+backImage[2][0][1][0][0]=Join_Stair_1-2-1.1.2
+backImage[3][0][0][0][0]=Join_Stair_1-2-1.0.3
+backImage[3][1][0][0][0]=Join_Stair_1-2-1.1.3
 ---------------
 obj=building
 name=YIC-Mk_EX-JoinStair_1-2-1(Type-2)
