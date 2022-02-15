@@ -1,5 +1,5 @@
 obj=building
-name=YIC-Mk_EX-Cross_FootBridge_Front_1
+name=YIC-Mk_EX-Cross_FootBridge_Front_1(Asphalt)
 copyright=wa / M.Kousaka
 noInfo=1
 noConstruction=1
@@ -86,7 +86,7 @@ backImage[15][0][0][0][0][1]=YIC_Cross_FootBridge_Asl-winter.1.3
 
 -------------------
 obj=building
-name=YIC-Mk_EX-Cross_FootBridge_Front_2
+name=YIC-Mk_EX-Cross_FootBridge_Front_2(Asphalt)
 copyright=wa / M.Kousaka
 noInfo=1
 noConstruction=1
@@ -172,7 +172,7 @@ backImage[14][0][0][0][0][1]=YIC_Cross_FootBridge_Asl-winter.4.2
 backImage[15][0][0][0][0][1]=YIC_Cross_FootBridge_Asl-winter.4.3
 --------
 obj=building
-name=YIC-Mk_EX-Cross_FootBridge_Back_1
+name=YIC-Mk_EX-Cross_FootBridge_Back_1(Asphalt)
 copyright=wa / M.Kousaka
 noInfo=1
 noConstruction=1
@@ -259,7 +259,7 @@ backImage[15][0][0][0][0][1]=YIC_Cross_FootBridge_Asl-winter.7.3
 
 -------------------
 obj=building
-name=YIC-Mk_EX-Cross_FootBridge_Back_2
+name=YIC-Mk_EX-Cross_FootBridge_Back_2(Asphalt)
 copyright=wa / M.Kousaka
 noInfo=1
 noConstruction=1
