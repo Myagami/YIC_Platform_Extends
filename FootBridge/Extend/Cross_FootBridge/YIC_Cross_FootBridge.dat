@@ -10,7 +10,7 @@ level=3
 waytype=track
 needs_ground=1
 cursor=YIC_Cross_FootBridge.2.1
-icon=> YIC_Cross_FootBridge.2.0
+micon=> YIC_Cross_FootBridge.2.0
 
 backImage[0][0][0][0][0][0]=YIC_Cross_FootBridge.0.0
 backImage[1][0][0][0][0][0]=YIC_Cross_FootBridge.0.1

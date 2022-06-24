@@ -1,0 +1,18 @@
+obj=building
+name=YIC-Mk_EX-JoinStair_1-1-1(type1)
+copyright=M.Kousaka
+NoInfo=1
+NoConstruction=1
+Dims=1,1,1
+Type=extension
+enables_pax=1
+Level=3
+waytype=track
+needs_ground=1
+#cursor=Join_Stair_1-1-1.0.
+icon=> Join_Stair_1-1-1.0.4
+BackImage[0][0][0][0][0]=Join_Stair_1-1-1.0.0
+BackImage[1][0][0][0][0]=Join_Stair_1-2-1.0.1
+BackImage[2][0][0][0][0]=Join_Stair_1-2-1.0.2
+BackImage[3][0][0][0][0]=Join_Stair_1-2-1.0.3
+---------
