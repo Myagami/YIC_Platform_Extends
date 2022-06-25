@@ -35,12 +35,8 @@ FrontImage[5][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.1
 FrontImage[6][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.2
 FrontImage[7][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.3
 
-BackImage[8][0][0][0][0][1]=platform-f_fence_Ex1-bc.4.0
-BackImage[9][0][0][0][0][1]=platform-f_fence_Ex1-bc.4.1
-BackImage[10][0][0][0][0][1]=platform-f_fence_Ex1-bc.4.2
-BackImage[11][0][0][0][0][1]=platform-f_fence_Ex1-bc.4.3
-BackImage[12][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.0
-BackImage[13][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.1
-BackImage[14][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.2
-BackImage[15][0][0][0][0][1]=platform-f_fence_Ex1-bc.5.3
+FrontImage[0][0][0][0][0][0]=platform-f_fence_Ex1-bc.6.0
+FrontImage[1][0][0][0][0][0]=platform-f_fence_Ex1-bc.6.1
+FrontImage[2][0][0][0][0][0]=platform-f_fence_Ex1-bc.6.2
+FrontImage[3][0][0][0][0][0]=platform-f_fence_Ex1-bc.6.3
 ---
