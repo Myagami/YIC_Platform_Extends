@@ -1,5 +1,5 @@
 obj=building
-name=YIC-Mk-EX-railstop-footbridge-1
+name=YIC-Mk-EX-railstop-NotStair-FootBridge-1
 copyright=wa / M.Kousaka
 noInfo=1
 noConstruction=1
@@ -168,4 +168,3 @@ backImage[12][0][0][0][0][1]=NotStair_FootBridge-winter.4.0
 backImage[13][0][0][0][0][1]=NotStair_FootBridge-winter.4.1
 backImage[14][0][0][0][0][1]=NotStair_FootBridge-winter.4.0
 backImage[15][0][0][0][0][1]=NotStair_FootBridge-winter.4.1
-
